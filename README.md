@@ -1,3 +1,3 @@
-# Transformation Techiques
+# Transition Excerise
 
-Making an image smoothly double in size when hovering over it.
+Here I am using keyframes and animation properties to make an image spin continuously without any breaks in rotation.
